@@ -1,8 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexandre
+Hi 👋! I'm Alexandre, a Fullstack developer
 =================================================================================================================================
-
-Fullstack developer
--------------------
 
 * 🌍 I'm based in France
 * 🖥️ See my portfolio at [alexandre-ferreira.fr](http://alexandre-ferreira.fr)
