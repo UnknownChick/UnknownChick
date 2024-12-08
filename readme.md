@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack developer
 -------------------
 
-* I'm based in France
-* See my portfolio at [alexandre-ferreira.fr](http://alexandre-ferreira.fr)
-* You can contact me at [alexandre.ferreira7@proton.me](mailto:alexandre.ferreira7@proton.me)
-* I'm currently working for [Sidev](http://si-developpement.fr)
-* I'm learning Three JS & React
-* I like Blender
+* 🌍 I'm based in France
+* 🖥️ See my portfolio at [alexandre-ferreira.fr](http://alexandre-ferreira.fr)
+* ✉️ You can contact me at [alexandre.ferreira7@proton.me](mailto:alexandre.ferreira7@proton.me)
+* 🚀 I'm currently working for [Sidev](http://si-developpement.fr)
+* 🧠 I'm learning Three JS & React
+* ⚡ I like Blender
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=UnknownChick&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
